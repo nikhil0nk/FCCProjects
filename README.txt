@@ -1,5 +1,6 @@
 # FCCProjects
-FREE CODE CAMP PROJECTS RESPONSIVE WEB DESIGN
+FREE CODE CAMP PROJECTS
+RESPONSIVE WEB DESIGN
 By NIKHIL KHARBANDA;
 PerPort - Personality Portfolio Webpage
 TechDoc - Technical Documentation Webpage
